@@ -8,7 +8,7 @@ fire_data = gpd.read_file("filtered_FIRE/v_fire_small.shp")
 
 st.markdown('## People and Fires in Victoria ')
 st.markdown("""
-The red shapes on the map indicate actual (not percentage) population growth between the 2016 and 2021 census.
+The red shapes on the map indicate areas of actual (not percentage) population increase between the 2016 and 2021 census.
 The black shapes are areas of high bushfire activity.
 
 
